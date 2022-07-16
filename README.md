@@ -1,4 +1,4 @@
 # hello-world
 
 
-go die in a hole
+its me the local emoticon -w-
